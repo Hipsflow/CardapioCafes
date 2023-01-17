@@ -21,7 +21,7 @@
         <div class="collapse navbar-collapse" id="navbarsExample02">
           <ul class="navbar-nav me-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="<?php echo URLROOT; ?>">Home</a>
+              <a class="nav-link" aria-current="page" href="<?php echo URLROOT; ?>">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://hipsflow.github.io/CafesPisoni/">Cafés Pisoni</a>
